@@ -1,4 +1,5 @@
-git clone caminho_do_repositório
+$ git clone caminho_do_repositório
+
 
 
 
