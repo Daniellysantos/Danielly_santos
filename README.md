@@ -1,4 +1,5 @@
-git config--global user.name"Danielly_santos"
+git clone caminho_do_repositório
+
 
 
 
